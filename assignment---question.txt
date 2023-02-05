@@ -1,0 +1,8 @@
+Day 26-01-2023
+
+1.	using fetch function call fake rest api of product, weather, employee etc
+2.	using fetch fucntion with await and asynch all fake rest api product, weather, employee etc.
+3.	(NOT COMPLETED)Using fetch funtion call fake rest api of emplyee, todo and display on browser with the help of DOM concept. It may be table format or list format or any other format.
+4.	Create rest api in existing project to find employee details whose age is > 21
+5.	create rest api in existing project to finde employee details whose salary is betweeen 20000 to 30000.
+      
